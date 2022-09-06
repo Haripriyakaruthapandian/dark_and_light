@@ -15,11 +15,12 @@
     color:var(--secondary-color);
   }
   #icon{
-    
+    background-color: rgb(226, 160, 8);
     width:30px;
     cursor: pointer;
     border-radius: 10px;
     color:black
+    
   }
   #icon:hover{
     background-color: rgb(130, 239, 239);
